@@ -17,8 +17,7 @@ source.include_exts = py,ui,png,jpg,kv,atlas
 
 # (list) List of inclusions using pattern matching
 # source.include_patterns = assets/*,images/*.png
-source.include_patterns = icons/*,images/*.png
-source.include_patterns = sound/*,mp3/*.wav
+source.include_patterns = icons/*,images/*.png,sound/*
 
 
 
