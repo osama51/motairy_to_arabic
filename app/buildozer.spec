@@ -17,7 +17,7 @@ source.include_exts = py,ui,png,jpg,kv,atlas
 
 # (list) List of inclusions using pattern matching
 # source.include_patterns = assets/*,images/*.png
-#source.include_patterns = icons/*,images/*.png,sound/*
+source.include_patterns = icons/*,images/*.png,sound/*
 
 
 
@@ -53,7 +53,7 @@ requirements = python3==3.7,kivy==2.3.0, pyjnius==1.5.0, Cython==0.29.10
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/icons/0073.png
+#icon.filename = %(source.dir)s/icons/0073.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
