@@ -53,7 +53,7 @@ requirements = kivy==2.3.0, kivymd, certifi>=2018.4.16, pyjnius==1.5.0, Cython==
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-#icon.filename = %(source.dir)s/icons/0073.png
+icon.filename = %(source.dir)s/icons/0073.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
