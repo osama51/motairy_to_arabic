@@ -71,7 +71,7 @@ orientation = portrait
 osx.python_version = 3
 
 # Kivy version to use
-osx.kivy_version = 1.9.1
+osx.kivy_version = 2.2.2
 
 #
 # Android specific
@@ -94,7 +94,7 @@ fullscreen = 0
 #android.api = 27
 
 # (int) Minimum API your APK will support.
-#android.minapi = 21
+android.minapi = 21
 
 # (int) Android SDK version to use
 #android.sdk = 20
