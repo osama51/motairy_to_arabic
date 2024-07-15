@@ -40,7 +40,7 @@ version = 0.1
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
 #requirements = python3,kivy, kivymd, certifi>=2018.4.16
-requirements = python3,kivy==2.3.0, kivymd, certifi>=2018.4.16, pyjnius==1.5.0, Cython==0.29.10
+requirements = kivy==2.3.0, kivymd, certifi>=2018.4.16, pyjnius==1.5.0, Cython==0.29.33
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -69,8 +69,8 @@ orientation = portrait
 # author = © Copyright Info
 
 # change the major version of python used by the app
-osx.python_version = 3
-#osx.python_version = 3.10.12
+#osx.python_version = 3
+osx.python_version = 3.10.12
 #osx.python_version = 3.7
 #osx.python_version = 3.9
 
