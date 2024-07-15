@@ -7,3 +7,10 @@ Introducing the app that's about to **revolutionize** the way you communicate wi
 With our **cutting-edge technology**, we've made it possible for you to easily convert **Motairy to Arabic** with just a few clicks. It's like having your own personal Motairy translator right at your **fingertips**! 
 
 Say **goodbye to the days of frustration and confusion**, and **hello to a whole new world of effortless communication**. With our app, Motairy will no longer be a foreign language to you. Try it out now and see for yourself - you'll wonder how you ever lived without it!
+
+
+## Videos From Our Clients:
+
+
+https://user-images.githubusercontent.com/36142935/228404542-6252e4b3-501c-4583-a3cb-5e9fe71054cd.mp4
+
