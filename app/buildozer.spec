@@ -17,7 +17,7 @@ source.include_exts = py,ui,png,jpg,kv,atlas
 
 # (list) List of inclusions using pattern matching
 # source.include_patterns = assets/*,images/*.png
-source.include_patterns = icons/*,images/*.png,sound/*
+#source.include_patterns = icons/*,images/*.png,sound/*
 
 
 
@@ -40,7 +40,7 @@ version = 0.1
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
 #requirements = python3,kivy, kivymd, certifi>=2018.4.16
-requirements = python3==3.8,kivy==2.3.0, pyjnius==1.5.0, Cython==0.29.10
+requirements = python3==3.7,kivy==2.3.0, pyjnius==1.5.0, Cython==0.29.10
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
@@ -71,7 +71,7 @@ orientation = portrait
 # change the major version of python used by the app
 #osx.python_version = 3
 #osx.python_version = 3.10.12
-osx.python_version = 3.8
+osx.python_version = 3.7
 
 # Kivy version to use
 #osx.kivy_version = 2.2.2
